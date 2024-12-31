@@ -3,7 +3,7 @@
 
 ## **Overview**
 
-This project focuses on predicting stock price movements based on historical financial data using machine learning and time series forecasting techniques. The goal is to build a model that predicts future stock prices based on past performance, trading volume, financial statements, and market sentiment analysis.
+This project focuses on predicting stock price movements based on historical financial data using machine learning and time series forecasting techniques. Which is assingned as third week project in the journey of my internship in cothon solutions  The goal is to build a model that predicts future stock prices based on past performance, trading volume, financial statements, and market sentiment analysis.
 
 ### **Key Technologies Used:**
 - **Time Series Forecasting**: ARIMA, SARIMA, and LSTM for predicting future stock prices.
